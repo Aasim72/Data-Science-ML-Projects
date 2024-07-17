@@ -1,1 +1,1 @@
-# Data-Science-Internship-Projects
+# Data-Science-ML-Projects
